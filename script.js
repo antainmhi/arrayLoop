@@ -4,7 +4,7 @@ function go(){
 
     //create array
     var arr = [2, 5, 7, 9, 103, 88, 3, 77, 46, 1002, 798, 534, 88]; 
-    //set varable to 1st array element
+    //set variable to 1st array element
     var largest = arr[0];
    
     
